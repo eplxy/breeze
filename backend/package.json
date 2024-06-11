@@ -1,0 +1,24 @@
+{
+  "name": "breeze",
+  "version": "1.0.0",
+  "description": "A personal coding project I started back in summer of 2023.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eplxy/breeze.git"
+  },
+  "author": "eplxy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eplxy/breeze/issues"
+  },
+  "homepage": "https://github.com/eplxy/breeze#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
